@@ -32,6 +32,6 @@ public class switchcode
     System.out.println("Sunday");
     break;
  }
- System.out.println("You have a meeting on this day");
+ System.out.println("hii . You have a meeting on this day");
 }
 }     
