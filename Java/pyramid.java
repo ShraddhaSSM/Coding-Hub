@@ -12,7 +12,7 @@ System.out.print(" ");
 }   
 for (j=0; j<=i; j++ )   
 {   
-System.out.print("* ");   
+System.out.print(".*.");   
 }  
 System.out.println();   
 }   
