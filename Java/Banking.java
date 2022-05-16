@@ -3,6 +3,7 @@ class Banking
 {
   public static void main(String args[])
   {
+    System.out.println("Welcome to uue bank service");
       System.out.println("....Banking....");
       int a,b,c;
       int sum=0;
