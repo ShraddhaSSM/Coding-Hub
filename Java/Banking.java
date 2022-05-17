@@ -17,7 +17,7 @@ class Banking
       b=s.nextInt();
       c=sum-b;
       System.out.println("Taotal amount : "+c);
-      System.out.println("Thank you");
+      System.out.println("Thank you, visit again");
       ///////////////////////
   }
 }
