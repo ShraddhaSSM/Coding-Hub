@@ -69,8 +69,7 @@ class  area_of_triangle
         h=s.nextInt();
         a=2*(l*b+l*h+b*h);
         v=l*b*h;
-        System.out.println("Area of cuboid is : "+a);
-        System.out.println("Volume of cuboid is : "+v);
-
+        System.out.println("Area and Volume of cuboid is : " +a +" and "+v);
+        
     }
 }
