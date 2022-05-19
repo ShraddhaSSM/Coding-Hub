@@ -62,6 +62,7 @@ class  area_of_triangle
     {
         int l,b,h;
         int a,v;
+        System.out.println("...CUBOID...");
         System.out.println("Enter values of length, breath,height : ");
         Scanner s=new Scanner(System.in);
         l=s.nextInt();
