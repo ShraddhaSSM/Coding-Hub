@@ -13,14 +13,14 @@ public class swap
         n2=s.nextInt();
 
         System.out.println("....Before....");
-        System.out.println("First number = " + n1);
-        System.out.println("Second number = " + n2);
+        System.out.println("First number is = " + n1);
+        System.out.println("Second number is = " + n2);
         int temp = n1;
         n1 = n2;
         n2 = temp;
 
         System.out.println("....After....");
-        System.out.println("First number = " + n1);
-        System.out.println("Second number = " + n2);
+        System.out.println("First number is = " + n1);
+        System.out.println("Second number is = " + n2);
     }
 }
