@@ -8,6 +8,7 @@ class table
         System.out.println("Enter number of which table you want : ");
         Scanner s=new Scanner(System.in);
         num=s.nextInt();
+            System.out.println("The Multiplication table is : ");
         for(int i = 1; i <= 10; ++i)
         {
             System.out.printf("%d * %d = %d \n", num, i, num * i);
