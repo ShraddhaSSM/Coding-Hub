@@ -21,15 +21,15 @@ class calculator
            break;
         case 2 :
            result=a-b;
-           System.out.println("Sub is "+ result);
+           System.out.println("Substraction is "+ result);
            break;
         case 3 :
            result=a*b;
-           System.out.println("Mul is "+ result);
+           System.out.println("Multiplication is "+ result);
            break;
         case 4 :
            result=a/b;
-           System.out.println("Div is "+ result);
+           System.out.println("Division is "+ result);
            break;
         default:
            System.out.println("Wrong input");
