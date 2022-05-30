@@ -32,7 +32,7 @@ class calculator
            System.out.println("Division is "+ result);
            break;
         default:
-           System.out.println("Wrong input");
+           System.out.println("Invalid input");
            break;
      }
     }
