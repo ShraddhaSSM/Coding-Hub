@@ -29,7 +29,7 @@ class calculator
            break;
         case 4 :
            result=a/b;
-           System.out.println("Division is "+ result);
+           System.out.println("Division 0f numbers is "+ result);
            break;
         default:
            System.out.println("Invalid input");
