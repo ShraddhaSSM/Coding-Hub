@@ -14,7 +14,7 @@ class reverseNum
       reversed = reversed * 10 + digit;
       num /= 10;
     }
-
+    System.out.println("..Reversion..");
     System.out.println("Reversed Number: " + reversed);
     }
 }
